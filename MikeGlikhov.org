@@ -11,7 +11,7 @@
 
 * Skills
 - Most comfortable with :: Solidity, Go, C, Javascript, Common Lisp, Forth, Emacs Lisp, Git, Linux
-- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash, LaTeX
+- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#,p PHP, Bash, LaTeX
 * Projects
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
 my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
