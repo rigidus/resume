@@ -27,7 +27,7 @@ An automated job analysis project that builds on my early research on expert sys
 Implementation of the Forth programming language and its Virtual Machine
 from absolute zero in assembler x86. Supports exceptions,
 object-oriented programming, system calls, and high-level Forth code
-decompilation. Contains a fortho-assembler.
+decompilation. Contains a forth-assembler.
 ** Literate Programming Tools
 *** Emacs-Lisp
 A set of Emacs utilities that extend Literate Programming methodology to
