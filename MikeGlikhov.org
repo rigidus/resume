@@ -11,7 +11,7 @@
 
 * Skills
 - Most comfortable with :: Solidity, Go, C, Javascript, Common Lisp, Forth, Emacs Lisp, Git, Linux
-- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, PHP, Bash, LaTeX
+- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash, LaTeX
 * Projects
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
 my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
@@ -56,8 +56,8 @@ patented architecture with a US patent attorney and have filed several
 patents.
 ** Independent Research
 *** Apr 2019 - Dec 2019
-- Independently designed and implemented my own blockchain system in
-  Forth and Common Lisp aimed to IOT.
+- Independently designed and implemented my own blockchain system aimed
+  to IOT.
 - Mentored a students who built a blockhains.
 ** Blockchain researcher, Core Blockchain Developer at [[https://waves.tech/][Waves]]
 *** Scala, React |Sep 2018 - Dec 2019
@@ -114,11 +114,10 @@ software parking system.
 
 Technologies:
 - PCB Design - Kikad, Altium Designer
-- Programming: C/С++, Assembler, Erlang (telephony), PHP/JS: Symfony +
-  React (web interface), EmacsLisp - code generation for "executable
-  specifications" and utilities for collaborative remote work in a team
-- Architectural stack - Linux on ARM Cortex A8 and
-  Symphony + React in the control interface.
+- Programming: C, Assembler, Erlang (telephony), PHP/JS: Symfony, React
+  (web interface), EmacsLisp (code generation for "executable
+  specifications" and utilities for collaborative remote work)
+- Linux on ARM Cortex A8[
 
 The development was carried out from scratch, in stages:
 - Hiring employees
