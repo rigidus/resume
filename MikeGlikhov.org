@@ -117,7 +117,7 @@ Technologies:
 - Programming: C, Assembler, Erlang (telephony), PHP/JS: Symfony, React
   (web interface), EmacsLisp (code generation for "executable
   specifications" and utilities for collaborative remote work)
-- Linux on ARM Cortex A8[
+- Linux on ARM Cortex A8
 
 The development was carried out from scratch, in stages:
 - Hiring employees
@@ -210,7 +210,7 @@ construction. Achievements:
   and rewritten in PHP.
 ** Middle developer at [[http://320-8080.ru][TsiFri]]
 *** PHP, MySql, Jquery, Common Lisp, Memcached | Sep 2009 - Apr 2011
-The company is an online store.:
+The company is an online store.
 - I refactored the legacy code for high loads by introducing caching and
   using Common Lisp.
 ** Junior Web Developer at [[https://webdom.net][Webdom]]
