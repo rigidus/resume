@@ -32,8 +32,7 @@ programming, system calls, and high-level Forth code decompilation.
 *** Emacs-Lisp
 A set of Emacs utilities that extend Literate Programming methodology to
 Literate Project Management. Supports task management in the project
-source code, time tracking and bug tracking. Designed to replace
-heavyweight Issue trackers such as Jira.
+source code, time tracking and bug tracking. Designed to replace Atlassian Jira.
 * Experience
 ** Solution Architect at [[https://insolar.io][Insolar]]
 *** Go, JavaScript, React, PlantUML | Jan 2020 - Jan 2021
