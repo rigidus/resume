@@ -11,7 +11,7 @@
 
 * Skills
 - Most comfortable with :: Solidity, Go, C, Javascript, Common Lisp, Forth, Emacs Lisp, Git, Linux
-- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#,p PHP, Bash, LaTeX
+- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash, LaTeX
 * Projects
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
 my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
@@ -60,14 +60,10 @@ patents.
   to IOT.
 - Mentored a students who built a blockhains.
 ** Blockchain researcher, Core Blockchain Developer at [[https://waves.tech/][Waves]]
-*** Scala, React |Sep 2018 - Dec 2019
-Waves is an open blockchain protocol and development toolset for Web 3.0
-applications and decentralized solutions.
-
-The company is the largest developer of blockchain solutions in Russia.
-
-The blockchain is written in Scala, the frontends are ModX, React, React
-Native.
+*** Scala, JavaScript, ModX, React | Sep 2018 - Dec 2019
+Waves is the largest developer of blockchain solutions in Russia: an open
+blockchain protocol and development toolset for Web 3.0 applications and
+decentralized solutions.
 
 Achievements:
 - Developed a decompiler for Ride, the smart contract language
@@ -177,7 +173,7 @@ Achievements:
 - Using the data of real estate agencies, I created a
   section on residential complexes and new buildings, which
   soon reached 60% of the site in volume, which allows you
-  to dramatically increase advertising revenues on.
+  pto dramatically increase advertising revenues on.
 - Implemented on the site a section for the search and
   selection of apartments, rooms and residential buildings
   of the primary and secondary market, integrated it with
@@ -222,5 +218,5 @@ Web Studio.
 *** Linux, Apache, MySQL, PHP | Sep 2005 - Jan 2007
 The company is an online store of car covers, auto parts and auto
 tools.
-- I Designed and developed an online store (three versions in
-  a year and a half)
+- Designed and developed an online store (three versions in a year and a
+  half)
