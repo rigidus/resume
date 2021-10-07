@@ -15,7 +15,7 @@
 * Projects
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
 my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
-** [[https://github.com/rigidus/solipsism][solipsism]]
+** [[https://github.com/rigidus/solipsism][Solipsism]]
 *** Solidity, Common Lisp
 Static analyzer for the Solidity programming language. Aimed at audit and
 finding vulnerabilities in smart contracts.
@@ -27,8 +27,7 @@ expert systems.
 *** Assembler, Forth
 Implementation of the Forth programming language and its Virtual Machine
 from absolute zero in assembler x86. Supports exceptions, object-oriented
-programming, system calls, and high-level Forth code
-decompilation. Contains a forth-assembler.
+programming, system calls, and high-level Forth code decompilation.
 ** Literate Programming Tools
 *** Emacs-Lisp
 A set of Emacs utilities that extend Literate Programming methodology to
@@ -37,7 +36,7 @@ source code, time tracking and bug tracking. Designed to replace
 heavyweight Issue trackers such as Jira.
 * Experience
 ** Solution Architect at [[https://insolar.io][Insolar]]
-*** Jan 2020 - Jan 2021
+*** Go, JavaScript, React, PlantUML | Jan 2020 - Jan 2021
 To visualize the algorithm of the Node's work, I wrote a translator from
 the Go code to the State Diagram for PlantUML. This state machine
 processed messages from other nodes. I have applied my experience in
@@ -59,10 +58,10 @@ patents.
 ** Independent Research
 *** Apr 2019 - Dec 2019
 - Independently designed and implemented my own blockchain system in
-  Forth and Common Lisp aimed to Internet Of Things.
+  Forth and Common Lisp aimed to IOT.
 - Mentored a students who built a blockhains.
 ** Blockchain researcher, Core Blockchain Developer at [[https://waves.tech/][Waves]]
-*** Sep 2018 - Dec 2019
+*** Scala, React |Sep 2018 - Dec 2019
 Waves is an open blockchain protocol and development toolset for Web 3.0
 applications and decentralized solutions.
 
@@ -80,9 +79,9 @@ Achievements:
 - I wrote a number of tests and documentation.
 
 ** System Architect at [[https://enecuum.com/][Enecuum]]
-*** Mar 2017 - Sep 2018
+*** Java, C++ | Mar 2017 - Sep 2018
 A blockchain startup in the post-ICO stage, is developing a blockchain
-project. Technology stack: Java, C++, Web, Mobile.
+project.
 
 I had to deal with research, architecture design, hiring and training
 team developers, setting and monitoring the execution of tasks and many
@@ -109,7 +108,7 @@ Achievements:
   VM-bytecode.
 - Trained team leaders in each department
 ** Head of Development at Automaton
-*** Dec 2015 - Mar 2017
+*** Erlang, PHP, Kikad, C, C++, Symphony, React | Dec 2015 - Mar 2017
 The company is engaged in the development and operation of automated
 parking lots. I led a research project to develop a new hardware and
 software parking system.
@@ -166,10 +165,10 @@ Achievements:
 - Automated documentation generation and storage using GIT based
   versioning and "executable specifications".
 ** TeamLead at BKN
-*** Apr 2015 - Dec 2015
+*** C#, ASP.NET, Javascript, ExtJs, Symphony, React | Apr 2015 - Dec 2015
 The company is the second local real estate website. Receives income from
-advertising on the site and ads from the sale of real estate. Tech stack:
-C# and ASP.NET, ExtJs, 3 people were involved in development.
+advertising on the site and ads from the sale of real estate. 3 people
+were involved in development.
 
 The site showed a decline in ad revenue for the six months
 before I joined the company. It was necessary to increase
@@ -190,47 +189,40 @@ Achievements:
 After the completion of the work, advertising revenue and
 traffic began to show steady growth.
 ** TeamLead at [[https://trendrealty.ru][Trend]]
-*** Feb 2014 - Mar 2015
+*** Php, Nginx, Mysql, PostgreSql | Feb 2014 - Mar 2015
 The company is a young fast-growing real estate agency specializing in
-new buildings. Tech stack: Php, Nginx, Mysql, PostgreSql. Achievements:
+new buildings.
 
 I automated the business process of a real estate sales agency:
 - Made an internal portal with a personal account of a realtor and the
   functionality of booking apartments
 - Implemented automated setting of recommended prices and automatic
   selection of an object according to the criteria entered by the realtor
-
 ** Lisp|Erlang Developer at [[https://aintsys.com][Algorithmic Trading Company]]
-*** Apr 2012 - Feb 2014
+*** Erlang, Common Lisp, C++ | Apr 2012 - Feb 2014
 I have developed solutions in the field of electronic currencies based on
-BlockChain technology. Tech stack: Erlang, Common Lisp, C++
+BlockChain technology.
 ** Senior Developer at [[https://wizardsoft.ru][WizardSoft]]
-*** May 2011 - Apr 2012
+*** PHP, JavaScript, Common Lisp, Postmodern, PostgreSQL | May 2011 - Apr 2012
 The company is engaged in the automation of cost management in
 construction. Achievements:
 - Developed a high-load web-portal for construction tenders. The
   prototype was implemented in Common Lisp, Postmodern and
   PostgreSQL. After acceptance, the prototype was significantly extended
-  and rewritten in PHP
-
+  and rewritten in PHP.
 ** Middle developer at [[http://320-8080.ru][TsiFri]]
-*** Sep 2009 - Apr 2011
-The company is an online store. Tech stack: PHP, MySql, Jquery, Common
-Lisp, Memcached. Achievements:
-
+*** PHP, MySql, Jquery, Common Lisp, Memcached | Sep 2009 - Apr 2011
+The company is an online store.:
 - I refactored the legacy code for high loads by introducing caching and
   using Common Lisp.
 ** Junior Web Developer at [[https://webdom.net][Webdom]]
-*** Jan 2007 - Sep 2009
-Web Studio. Tech stack: Php, Nginx, MySql. Achievements:
-
+*** PHP, Nginx, MySql | Jan 2007 - Sep 2009
+Web Studio.
 - Developed the framework on which the company now operates. CMS based on
   it are delivered to clients.
 ** Freelance programmer at [[http://pochin.ru][Pochin]]
-*** Sep 2005 - Jan 2007
+*** Linux, Apache, MySQL, PHP | Sep 2005 - Jan 2007
 The company is an online store of car covers, auto parts and auto
-tools. Tech stack: Linux, Apache, MySQL, PHP
-
-Achievements:
-- Designed and developed an online store (three versions in
+tools.
+- I Designed and developed an online store (three versions in
   a year and a half)
