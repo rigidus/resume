@@ -16,7 +16,7 @@
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
 my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
 ** [[https://github.com/rigidus/solipsism][solipsism]]
-*** Soliduty, Common Lisp
+*** Solidity, Common Lisp
 Static analyzer for the Solidity programming language. Aimed at audit and
 finding vulnerabilities in smart contracts.
 ** [[http://rigidus.ru/prj/hh.html][Expert system for job search]]
