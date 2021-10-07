@@ -16,17 +16,18 @@
 I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
 my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
 ** [[https://github.com/rigidus/solipsism][solipsism]]
-*** Common Lisp
+*** Soliduty, Common Lisp
 Static analyzer for the Solidity programming language. Aimed at audit and
 finding vulnerabilities in smart contracts.
 ** [[http://rigidus.ru/prj/hh.html][Expert system for job search]]
 *** Common Lisp
-An automated job analysis project that builds on my early research on expert systems.
+An automated job analysis project that builds on my early research on
+expert systems.
 ** [[http://rigidus.ru/lrn/forth/jonesforth-1.html][Forth VM Implementation]]
 *** Assembler, Forth
 Implementation of the Forth programming language and its Virtual Machine
-from absolute zero in assembler x86. Supports exceptions,
-object-oriented programming, system calls, and high-level Forth code
+from absolute zero in assembler x86. Supports exceptions, object-oriented
+programming, system calls, and high-level Forth code
 decompilation. Contains a forth-assembler.
 ** Literate Programming Tools
 *** Emacs-Lisp
