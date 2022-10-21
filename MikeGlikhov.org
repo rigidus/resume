@@ -11,31 +11,43 @@
 
 * Skills
 - Most comfortable with :: Solidity, Go, C, Javascript, Common Lisp, Forth, Emacs Lisp, Git, Linux
-- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash, LaTeX
+- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash
 * Projects
-I contribute to a number of FOSS projects in varying degrees. [[https://github.com/rigidus][Github]] and
-my [[http://rigidus.ru][homepage]] provides a fairly comprehensive overview.
-** [[https://github.com/rigidus/solipsism][Solipsism]]
+I contribute to a number of FOSS projects in varying degrees. See my [[https://github.com/rigidus][Github]].
+** Solipsism
 *** Solidity, Common Lisp
 Static analyzer for the Solidity programming language. Aimed at audit and
 finding vulnerabilities in smart contracts.
-** [[http://rigidus.ru/prj/hh.html][Expert system for job search]]
+** Expert system for job search
 *** Common Lisp
 An automated job analysis project that builds on my early research on
 expert systems.
-** [[http://rigidus.ru/lrn/forth/jonesforth-1.html][Forth VM Implementation]]
+** Forth VM Implementation
 *** Assembler, Forth
 Implementation of the Forth programming language and its Virtual Machine
 from absolute zero in assembler x86. Supports exceptions, object-oriented
 programming, system calls, and high-level Forth code decompilation.
 ** Literate Programming Tools
-*** Emacs-Lisp
+*** Rust, Emacs-Lisp, Erlang
 A set of Emacs utilities that extend Literate Programming methodology to
 Literate Project Management. Supports task management in the project
 source code, time tracking and bug tracking. Designed to replace Atlassian Jira.
 * Experience
+** Core Blockchain Developer at MEP
+*** Rust, Solidity, Web3 | Mar2022 - till now
+Startup passes the MVB Accelerator program from Binance Lab. MEP is an interoperability communication protocol
+My responsibility:
+- Design and implementation of a virtual machine for multi-chain event exchange
+- Implementation of the multi-chain protocol
+- Node implementation, including the consensus mechanism, p2p network layer and network protocols
+** Bridge engineer at Aurora Labs (NEAR Protocol)
+*** Rust, Solidity, Web3, NATS | Jan 2021 - Mar 2022
+The company is developing a solution for scaling Ethereum.
+My responsibility:
+- Bridge indexer (indexes transactions passing through the Rainbow Bridge between Ethereum and Near)
+- Bridge monitor (monitoring of suspicious transactions in terms of security, automation of incident response)
 ** Solution Architect at [[https://insolar.io][Insolar]]
-*** Go, JavaScript, React, PlantUML | Jan 2020 - Jan 2021
+*** Go, JavaScript, React, PlantUML, PostgreSQL | Jan 2020 - Jan 2021
 To visualize the algorithm of the Node's work, I wrote a translator from
 the Go code to the State Diagram for PlantUML. This state machine
 processed messages from other nodes. I have applied my experience in
@@ -55,10 +67,11 @@ the possible sale of the company and the receipt of financing. I have
 patented architecture with a US patent attorney and have filed several
 patents.
 ** Independent Research
-*** Apr 2019 - Dec 2019
+*** Rust, Soliduty, Python, NodeJS, C++, PostgreSQL, RabbitMQ | Apr 2019 - Dec 2019
 - Independently designed and implemented my own blockchain system aimed
   to IOT.
 - Mentored a students who built a blockhains.
+- Learning the Rust programming language and using it to develop an educational blockchain node
 ** Blockchain researcher, Core Blockchain Developer at [[https://waves.tech/][Waves]]
 *** Scala, JavaScript, ModX, React | Sep 2018 - Dec 2019
 Waves is the largest developer of blockchain solutions in Russia: an open
@@ -72,7 +85,6 @@ Achievements:
 - I researched the possibilities of implementing NFT tokens
   and Curated List Registries on Waves blockchain.
 - I wrote a number of tests and documentation.
-
 ** System Architect at [[https://enecuum.com/][Enecuum]]
 *** Java, C++ | Mar 2017 - Sep 2018
 A blockchain startup in the post-ICO stage, is developing a blockchain
@@ -183,7 +195,7 @@ Achievements:
 After the completion of the work, advertising revenue and
 traffic began to show steady growth.
 ** TeamLead at [[https://trendrealty.ru][Trend]]
-*** Php, Nginx, Mysql, PostgreSql | Feb 2014 - Mar 2015
+*** Php, Nginx, Mysql, PostgreSQL | Feb 2014 - Mar 2015
 The company is a young fast-growing real estate agency specializing in
 new buildings.
 

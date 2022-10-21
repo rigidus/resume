@@ -1,11 +1,11 @@
 #+MACRO: FIRST    Mike
 #+MACRO: LAST     Glukhov
 #+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
-#+MACRO: BLOG     http://rigidus.ru
+#+MACRO: BLOG
 #+MACRO: E-MAIL   i.am.rigidus@gmail.com
-#+MACRO: PHONE    +7 911 286 9290
+#+MACRO: PHONE
 #+MACRO: CODE     https://github.com/rigidus
-#+MACRO: ADDRESS1 Russia
-#+MACRO: ADDRESS2 Saint-Petersburg
+#+MACRO: ADDRESS1
+#+MACRO: ADDRESS2
 
-#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{E-MAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{E-MAIL}}} }{ {{{BLOG}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
