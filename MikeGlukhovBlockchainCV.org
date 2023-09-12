@@ -1,0 +1,234 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+
+{{{HEADER}}}
+
+* Skills
+- Most comfortable with :: Solidity, Go, C, Javascript, Common Lisp, Forth, Emacs Lisp, Git, Linux
+- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash
+* Projects
+I contribute to a number of FOSS projects in varying degrees. See my [[https://github.com/rigidus][Github]].
+** Solipsism
+*** Solidity, Common Lisp
+Static analyzer for the Solidity programming language. Aimed at audit and
+finding vulnerabilities in smart contracts.
+** Expert system for job search
+*** Common Lisp
+An automated job analysis project that builds on my early research on
+expert systems.
+** Forth VM Implementation
+*** Assembler, Forth
+Implementation of the Forth programming language and its Virtual Machine
+from absolute zero in assembler x86. Supports exceptions, object-oriented
+programming, system calls, and high-level Forth code decompilation.
+** Literate Programming Tools
+*** Rust, Emacs-Lisp, Erlang
+A set of Emacs utilities that extend Literate Programming methodology to
+Literate Project Management. Supports task management in the project
+source code, time tracking and bug tracking. Designed to replace Atlassian Jira.
+* Experience
+** Core Blockchain Developer at MEP
+*** Rust, Solidity, Web3 | Mar2022 - till now
+Startup passes the MVB Accelerator program from Binance Lab. MEP is an interoperability communication protocol
+My responsibility:
+- Design and implementation of a virtual machine for multi-chain event exchange
+- Implementation of the multi-chain protocol
+- Node implementation, including the consensus mechanism, p2p network layer and network protocols
+** Bridge engineer at Aurora Labs (NEAR Protocol)
+*** Rust, Solidity, Web3, NATS | Jan 2021 - Mar 2022
+The company is developing a solution for scaling Ethereum.
+My responsibility:
+- Bridge indexer (indexes transactions passing through the Rainbow Bridge between Ethereum and Near)
+- Bridge monitor (monitoring of suspicious transactions in terms of security, automation of incident response)
+** Solution Architect at [[https://insolar.io][Insolar]]
+*** Go, JavaScript, React, PlantUML, PostgreSQL | Jan 2020 - Jan 2021
+To visualize the algorithm of the Node's work, I wrote a translator from
+the Go code to the State Diagram for PlantUML. This state machine
+processed messages from other nodes. I have applied my experience in
+building compilers. As a result:
+- Some bugs were found,
+- The documentation has become easier to keep up to date,
+- Accelerated architectural design: it was easier to reflect the changes
+  on the diagram.
+
+I have done architectural design for the Observer component. It is a
+several microservices that collects data from the blockchain network,
+aggregates it and provides it to web frontends. Frontends show our users
+transactions, account balances, and contract states.
+
+For a startup, a patent portfolio is important - it affects the price of
+the possible sale of the company and the receipt of financing. I have
+patented architecture with a US patent attorney and have filed several
+patents.
+** Independent Research
+*** Rust, Soliduty, Python, NodeJS, C++, PostgreSQL, RabbitMQ | Apr 2019 - Dec 2019
+- Independently designed and implemented my own blockchain system aimed
+  to IOT.
+- Mentored a students who built a blockhains.
+- Learning the Rust programming language and using it to develop an educational blockchain node
+** Blockchain researcher, Core Blockchain Developer at [[https://waves.tech/][Waves]]
+*** Scala, JavaScript, ModX, React | Sep 2018 - Dec 2019
+Waves is the largest developer of blockchain solutions in Russia: an open
+blockchain protocol and development toolset for Web 3.0 applications and
+decentralized solutions.
+
+Achievements:
+- Developed a decompiler for Ride, the smart contract language
+  on the Waves blockchain. It finds compilation patterns
+  from bytecode and restores lost semantic constructs.
+- I researched the possibilities of implementing NFT tokens
+  and Curated List Registries on Waves blockchain.
+- I wrote a number of tests and documentation.
+** System Architect at [[https://enecuum.com/][Enecuum]]
+*** Java, C++ | Mar 2017 - Sep 2018
+A blockchain startup in the post-ICO stage, is developing a blockchain
+project.
+
+I had to deal with research, architecture design, hiring and training
+team developers, setting and monitoring the execution of tasks and many
+other things besides working with code.
+
+I divided the efforts of the developers by creating four departments:
+- Node developers
+- Block explorer developers
+- Mobile application developers
+- Web developers
+
+Each department had 6-8 people and 2-3 testers, about 40 people in
+total. I implemented scrum and wrote several utilities (in Emacs-Lisp)
+that track the progress of tasks (on a Gantt chart) and signal when they
+are behind schedule.
+
+After the launch of TestNet, I developed the Virtual Machine for
+executing smart contracts.
+
+Achievements:
+- Launched the Test Network (400 nodes)
+- Developed a virtual machine that executes smart contracts
+- Made a compiler from Solidity-like high-level language into
+  VM-bytecode.
+- Trained team leaders in each department
+** Head of Development at Automaton
+*** Erlang, PHP, Kikad, C, C++, Symphony, React | Dec 2015 - Mar 2017
+The company is engaged in the development and operation of automated
+parking lots. I led a research project to develop a new hardware and
+software parking system.
+
+Technologies:
+- PCB Design - Kikad, Altium Designer
+- Programming: C, Assembler, Erlang (telephony), PHP/JS: Symfony, React
+  (web interface), EmacsLisp (code generation for "executable
+  specifications" and utilities for collaborative remote work)
+- Linux on ARM Cortex A8
+
+The development was carried out from scratch, in stages:
+- Hiring employees
+- Selection of electronic components,
+- Creation of printed circuit boards,
+- Writing low-level code that controls barriers and polls sensors
+- Writing business logic and web interfaces through which parking can be
+  controlled remotely,
+- Internet telephony connection to communicate with the parking client
+
+The first implementation took place six months after the start of
+development, the development fully paid off in a year. The developed
+solution is ahead of the competitors.
+- 2 design engineers (topologists) for the design of printed circuit
+  boards
+- 1 Linux kernel driver developer
+- 3 Full stack web developers (PHP Symphony React)
+- 2 Android developers
+- 1 Ios developer
+- 10-20 implementation engineers, installers, electricians (at the
+  implementation stage)
+- 4 QA specialists
+- 1 3D artist
+- 1 Erlang developer (telephony)
+
+Achievements:
+
+- Designed the hardware and software architecture of the paid parking
+  automation system.
+- Planned and organized software and hardware development work, including
+  selection of electronic components and circuit design.
+- Implemented business logic and presentation layer (Operator Workplace)
+  on Symfony and React
+- Supervised the implementation of the transport layer and the hardware
+  abstraction layer (C/C++, kernel modules, device drivers)
+- Organized parallel development on a modular basis to speed up product
+  creation and kanban methodology
+- Implemented Continuous Integration and Lifecycle Management Process
+  (Releases, Bug Fixes, Feature Additions, Technical Quality Control,
+  Automated Testing)
+- Implemented secure (digital signature) and fail-safe (rollback to the
+  previous version if tests fail) firmware update via the Internet.
+- Automated documentation generation and storage using GIT based
+  versioning and "executable specifications".
+** TeamLead at BKN
+*** C#, ASP.NET, Javascript, ExtJs, Symphony, React | Apr 2015 - Dec 2015
+The company is the second local real estate website. Receives income from
+advertising on the site and ads from the sale of real estate. 3 people
+were involved in development.
+
+The site showed a decline in ad revenue for the six months
+before I joined the company. It was necessary to increase
+the resource in the subject and interest advertisers.
+
+Achievements:
+
+- Using the data of real estate agencies, I created a
+  section on residential complexes and new buildings, which
+  soon reached 60% of the site in volume, which allows you
+  pto dramatically increase advertising revenues on.
+- Implemented on the site a section for the search and
+  selection of apartments, rooms and residential buildings
+  of the primary and secondary market, integrated it with
+  the inter-agency database of real estate objects.
+- Formed an SEO strategy for website development.
+
+After the completion of the work, advertising revenue and
+traffic began to show steady growth.
+** TeamLead at [[https://trendrealty.ru][Trend]]
+*** Php, Nginx, Mysql, PostgreSQL | Feb 2014 - Mar 2015
+The company is a young fast-growing real estate agency specializing in
+new buildings.
+
+I automated the business process of a real estate sales agency:
+- Made an internal portal with a personal account of a realtor and the
+  functionality of booking apartments
+- Implemented automated setting of recommended prices and automatic
+  selection of an object according to the criteria entered by the realtor
+** Lisp|Erlang Developer at [[https://aintsys.com][Algorithmic Trading Company]]
+*** Erlang, Common Lisp, C++ | Apr 2012 - Feb 2014
+I have developed solutions in the field of electronic currencies based on
+BlockChain technology.
+** Senior Developer at [[https://wizardsoft.ru][WizardSoft]]
+*** PHP, JavaScript, Common Lisp, Postmodern, PostgreSQL | May 2011 - Apr 2012
+The company is engaged in the automation of cost management in
+construction. Achievements:
+- Developed a high-load web-portal for construction tenders. The
+  prototype was implemented in Common Lisp, Postmodern and
+  PostgreSQL. After acceptance, the prototype was significantly extended
+  and rewritten in PHP.
+** Middle developer at [[http://320-8080.ru][TsiFri]]
+*** PHP, MySql, Jquery, Common Lisp, Memcached | Sep 2009 - Apr 2011
+The company is an online store.
+- I refactored the legacy code for high loads by introducing caching and
+  using Common Lisp.
+** Junior Web Developer at [[https://webdom.net][Webdom]]
+*** PHP, Nginx, MySql | Jan 2007 - Sep 2009
+Web Studio.
+- Developed the framework on which the company now operates. CMS based on
+  it are delivered to clients.
+** Freelance programmer at [[http://pochin.ru][Pochin]]
+*** Linux, Apache, MySQL, PHP | Sep 2005 - Jan 2007
+The company is an online store of car covers, auto parts and auto
+tools.
+- Designed and developed an online store (three versions in a year and a
+  half)
