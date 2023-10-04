@@ -33,16 +33,16 @@ A set of Emacs utilities that extend Literate Programming methodology to
 Literate Project Management. Supports task management in the project
 source code, time tracking and bug tracking. Designed to replace Atlassian Jira.
 * Experience
-** Core Blockchain Developer at MEP
-*** Rust, Solidity, Web3 | Mar2022 - till now
-Startup passes the MVB Accelerator program from Binance Lab. MEP is an interoperability communication protocol
-My responsibility:
-- Design and implementation of a virtual machine for multi-chain event exchange
-- Implementation of the multi-chain protocol
-- Node implementation, including the consensus mechanism, p2p network layer and network protocols
+** Team Lead at Neon Labs
+*** Go, EVM, Solidity, Solana, PostgreSQL | Dec 2022 - Sep 2023
+Neon Labs develops Ethereum-like virtual machine and infrastructure around it which provides opportunity to execute Ethereum transactions using Solana Blockchain
+- Refactoring system component, which extracts Ethereum-like transactions with its full info included logs from Solana Blockchain, indexes it and stores to PostgreSQL
+- Development of microservice architecture to access indexed data
+- Implemented Ethereum-like websockets on Solana integrated with Neon EVM
 ** Bridge engineer at Aurora Labs (NEAR Protocol)
 *** Rust, Solidity, Web3, NATS | Jan 2021 - Mar 2022
-The company is developing a solution for scaling Ethereum.
+Aurora Labs is the development company behind Aurora - the EVM blockchain that runs on the NEAR Protocol.
+
 My responsibility:
 - Bridge indexer (indexes transactions passing through the Rainbow Bridge between Ethereum and Near)
 - Bridge monitor (monitoring of suspicious transactions in terms of security, automation of incident response)
@@ -68,8 +68,9 @@ patented architecture with a US patent attorney and have filed several
 patents.
 ** Independent Research
 *** Rust, Soliduty, Python, NodeJS, C++, PostgreSQL, RabbitMQ | Apr 2019 - Dec 2019
-- Independently designed and implemented my own blockchain system aimed
-  to IOT.
+- Independently designed and implemented my own blockchain system aimed to IOT.
+- Design and implementation of a virtual machine for smart-contracts
+- Node implementation, including the consensus mechanism, p2p network layer and network protocols
 - Mentored a students who built a blockhains.
 - Learning the Rust programming language and using it to develop an educational blockchain node
 ** Blockchain researcher, Core Blockchain Developer at [[https://waves.tech/][Waves]]
