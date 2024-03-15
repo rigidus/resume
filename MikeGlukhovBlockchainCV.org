@@ -34,7 +34,7 @@ Literate Project Management. Supports task management in the project
 source code, time tracking and bug tracking. Designed to replace Atlassian Jira.
 * Experience
 ** Team Lead at Neon Labs
-*** Go, EVM, Solidity, Solana, PostgreSQL | Dec 2022 - Sep 2023
+*** Go, EVM, Solidity, Solana, PostgreSQL | Dec 2022 - present
 Neon Labs develops Ethereum-like virtual machine and infrastructure around it which provides opportunity to execute Ethereum transactions using Solana Blockchain
 - Refactoring system component, which extracts Ethereum-like transactions with its full info included logs from Solana Blockchain, indexes it and stores to PostgreSQL
 - Development of microservice architecture to access indexed data
@@ -116,13 +116,13 @@ Achievements:
   VM-bytecode.
 - Trained team leaders in each department
 ** Head of Development at Automaton
-*** Erlang, PHP, Kikad, C, C++, Symphony, React | Dec 2015 - Mar 2017
+*** Erlang, PHP, Kicad, C, C++, Symphony, React | Dec 2015 - Mar 2017
 The company is engaged in the development and operation of automated
 parking lots. I led a research project to develop a new hardware and
 software parking system.
 
 Technologies:
-- PCB Design - Kikad, Altium Designer
+- PCB Design - Kicad, Altium Designer
 - Programming: C, Assembler, Erlang (telephony), PHP/JS: Symfony, React
   (web interface), EmacsLisp (code generation for "executable
   specifications" and utilities for collaborative remote work)
