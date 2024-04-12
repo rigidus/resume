@@ -9,9 +9,15 @@
 
 {{{HEADER}}}
 
+I am an experienced blockchain developer, working with Bitcoin since 2009, now specializing in Etherium-like networks (Ethereum and Polygon) and Solana.
+\newline \newline
+I write code in Golang (6 years), Rust (3 years) and Solidity (6 years, since 2017), to a lesser extent familiar with Python and Node.js. I've developed bridges, blockchain nodes, exchanges, DeFi solutions, and protocol design.
+\newline \newline
+My academic interests are in programming language development, so I also make virtual machines for executing smart contracts and tools for static and dynamic code analysis (including finding potential vulnerabilities in smart contracts)
+
 * Skills
-- Most comfortable with :: Solidity, Go, C, Javascript, Common Lisp, Forth, Emacs Lisp, Git, Linux
-- Have worked with :: Java, Python, C++, Rust, Clojure, Erlang, C#, PHP, Bash
+- Most comfortable with :: Golang, Rust, Solidity, C, Common Lisp, Forth, Emacs Lisp, Git, Linux
+- Have worked with :: Java, Python, C++, Javascript, Clojure, Tkl/Tk, Erlang, C#, PHP, Bash
 * Projects
 I contribute to a number of FOSS projects in varying degrees. See my [[https://github.com/rigidus][Github]].
 ** Solipsism
